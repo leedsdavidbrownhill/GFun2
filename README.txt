@@ -1,3 +1,3 @@
 Hello3
 Fix Bug1234
-Feature2
+Another fix to Bug1234
